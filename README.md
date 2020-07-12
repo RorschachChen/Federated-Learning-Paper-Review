@@ -1,4 +1,4 @@
-# [Federated Learning Paper Review Record](URL 'https://github.com/RorschachChen/Federated-Learning-Paper-Review')
+# Federated Learning Paper Review Record
 
 # To readers
 
